@@ -1,5 +1,6 @@
-Department of Diagnostic Radiology, Lund University, Lund, Sweden
+## Samo Lasič
 
-Danish Research Centre for Magnetic Resonance, Centre for Functional and Diagnostic Imaging and Research, Copenhagen University Hospital - Amager and Hvidovre, Copenhagen, Denmark
+Research Fellow, Department of Diagnostic Radiology, Lund University
 
-Random Walk Imaging AB, Lund, Sweden
+Background in diffusion MRI method development, focusing on measurement design and biophysical interpretation.  
+Side interests include generative art and building expressive and responsive digital instruments for real-time musical interaction.
